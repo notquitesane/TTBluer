@@ -1,7 +1,7 @@
 # TTBluer
 Various config files related to my 3d printer
 
-Includes gcode, config files for slier and filiments, and so forth
+Includes gcode, config files for slicer and filiments, and so forth
 
 # License
 
